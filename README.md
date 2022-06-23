@@ -22,4 +22,4 @@ The employer would like to have a single url they can visit to view all of the a
 
 #[My Portfolio](https://b-alt-del.github.io/BradsChill-Portfolio/) Includes an about section, my contact info, and all the ways that the employer would be able to contact me.
 
-![screenshot of website](./images/screenshot/website-screenshot.png)
+![screenshot of website](./assets/images/portfolio.png)
